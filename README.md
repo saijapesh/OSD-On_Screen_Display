@@ -2,7 +2,9 @@ Instructions
 
 Download the Latest Version:
 <br>
+    <li>
     Go to the releases page of this repository.
+    </li>
 <br>
     Download the latest version ZIP file.
 
