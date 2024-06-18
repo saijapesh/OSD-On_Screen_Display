@@ -1,4 +1,4 @@
-Instructions
+<h2>Instructions</h2>
     <ul>
         <li>
             <strong>Download the Latest Version:</strong>
