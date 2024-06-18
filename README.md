@@ -3,7 +3,7 @@ Instructions
         <li>
             <strong>Download the Latest Version:</strong>
             <ul>
-                <li>Go to the <a href="./releases">releases page</a> of this repository.</li>
+                <li>Go to the <a href="[./releases](https://github.com/saijapesh/OSD-On_Screen_Display/releases/tag/V1.0)">releases page</a> of this repository.</li>
                 <li>Download the latest version ZIP file.</li>
             </ul>
         </li>
