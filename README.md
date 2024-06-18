@@ -23,13 +23,13 @@
         <li>
             <strong>Recording Tutorial:</strong>
             <ul>
-                <li>A tutorial video is available in the <code>recordings</code> folder within the extracted files. Watch this video for a detailed guide on using the software.</li>
+                <li>A tutorial video is available in the <code>recordings</code> folder within the extracted files. Watch this video for a detailed guide on using the application.</li>
             </ul>
         </li>
         <li>
             <strong>Start and Stop Recording:</strong>
             <ul>
-                <li>Press the <code>r</code> key to start and stop recording.</li>
+                <li>Press the <code>r</code> key to start or stop recording.</li>
                 <li>Recordings will be automatically saved in the <code>recordings</code> folder.</li>
             </ul>
         </li>
