@@ -1,6 +1,7 @@
 Instructions
 
 Download the Latest Version:
+<br>
   Go to the releases page of this repository.
   Download the latest version ZIP file.
   
